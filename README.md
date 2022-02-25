@@ -1,7 +1,7 @@
 ### This is a Transcription App for Transcribing Video Files using Assembly AI
 
 ###### Use the below code to run the app
-uvicorn main:app --reload
+uvicorn main:app --port 8000 --reload
 
 Webpage
 ![image](https://user-images.githubusercontent.com/98326079/155324194-a89e90f4-c53c-456e-8b09-59caf10d2feb.png)
