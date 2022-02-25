@@ -1,0 +1,22 @@
+Please find the logs for your transcription below: 
+
+Files uploaded:
+short_test_file_3.mp4
+very_short_test_file1.mp4
+
+
+starting to transcribe the file:short_test_file_3.mp4
+Transcription Completed for the file:short_test_file_3.mp4
+Saving the transcription of the file :short_test_file_3.mp4
+Converting into document file:short_test_file_3.mp4
+Saving the document file:short_test_file_3.mp4
+
+
+starting to transcribe the file:very_short_test_file1.mp4
+Transcription Completed for the file:very_short_test_file1.mp4
+Saving the transcription of the file :very_short_test_file1.mp4
+Converting into document file:very_short_test_file1.mp4
+Saving the document file:very_short_test_file1.mp4
+
+
+Zipping all the transcribed documents and preparing to download
