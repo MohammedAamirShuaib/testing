@@ -9,6 +9,7 @@ import shutil
 import sys
 import time
 import requests
+import pandas as pd
 from transcribe import *
 from assemblyai_data_extraction import json_data_extraction
 from typing import List
